@@ -1,3 +1,4 @@
+[LAB 5 - Spring MVC.pdf](https://github.com/SS1857/ShashankShukla__Spring_MVCLabSolution/files/9013724/LAB.5.-.Spring.MVC.pdf)
 
 In College fest, Students want to take registrations for a Debate event and want to keep track of
 student details based on the department. Help the students to create a table with the help of
